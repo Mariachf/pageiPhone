@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Página de Iphone</h1>
   <a>
-    <img src = "./img/188238224-1c73152f-efc6-486e-9cd9-f377567fcb65.png" />
+    <img src = "./img/Captura de tela 2025-04-13 221711.png" />
   </a>
 
   
